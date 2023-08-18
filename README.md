@@ -12,9 +12,10 @@ HTML e CSS: praticando HTML/CSS
 HTML e CSS: responsividade com mobile-first
 Foram feitas 313 de 313 atividades.
 
+Site 100% responsivo desktop, mobile e tablet;
 
 Site do projeto:
 
 https://projeto-alura-curso-finalizado.vercel.app/
 
-<img src="[https://imgur.com/Fd1yYGU.png](https://imgur.com/7gFP4KV.png)" alt="meu-primeiro-site">
+<img src="https://imgur.com/7gFP4KV.png" alt="meu-primeiro-site">
